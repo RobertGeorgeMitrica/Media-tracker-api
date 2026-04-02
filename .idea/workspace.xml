@@ -7,15 +7,17 @@
     <list default="true" id="63d6ee5f-b366-4b2d-bd0d-121feab88845" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/MediaTracker/src/main/java/com/example/MediaTracker/service/MediaService.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MediaTracker/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MediaTracker/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/MediaTracker/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MediaTracker/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/MediaTracker/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MediaTracker/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MediaTracker/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MediaTracker/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/MediaTracker/mvnw.cmd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MediaTracker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MediaTracker/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MediaTracker/src/main/java/com/example/MediaTracker/MediaTrackerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MediaTracker/src/main/java/com/example/MediaTracker/MediaTrackerApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MediaTracker/src/main/java/com/example/MediaTracker/controller/MediaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MediaTracker/src/main/java/com/example/MediaTracker/controller/MediaController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MediaTracker/src/main/java/com/example/MediaTracker/repository/MediaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/MediaTracker/src/main/java/com/example/MediaTracker/repository/MediaRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MediaTracker/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MediaTracker/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MediaTracker/src/test/java/com/example/MediaTracker/MediaTrackerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MediaTracker/src/test/java/com/example/MediaTracker/MediaTrackerApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
